@@ -112,6 +112,8 @@ def movies_with_directors_set(src)
   
   while idx < src.size
     
+    dir_movies.push()
+    
     idx += 1
   end
   
