@@ -108,6 +108,7 @@ def movies_with_directors_set(src)
   # to have a :director_name key added to it.
   
   dir_movies = [ ]
+  idx = 0 # index
   
 end
 
