@@ -116,7 +116,7 @@ def movies_with_directors_set(src)
   dir_movies = [ ]
   idx = 0 # index
   
-  while idx < src.size
+  while idx < src.size # I should switch to only length.
     
     dir_movies.push(movies_with_director_key(src[idx][:name], src[idx][:movies]))
     
