@@ -99,9 +99,11 @@ def gross_per_studio(collection)
   end
   
   studio_gross # HoH structure
+  
 end
 
 def movies_with_directors_set(src)
+  
   # GOAL: For each director, find their :movies Array and stick it in a new Array
   #
   # INPUT:
