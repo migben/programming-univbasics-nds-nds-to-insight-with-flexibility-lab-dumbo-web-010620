@@ -110,6 +110,8 @@ def movies_with_directors_set(src)
   dir_movies = [ ]
   idx = 0 # index
   
+  while idx < src.size
+  
 end
 
 #######################################################
