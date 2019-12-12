@@ -123,6 +123,7 @@ def movies_with_directors_set(src)
     dir_movies.push(movies_with_director_key(src[idx][:name], src[idx][:movies]))
     
     idx += 1
+    
   end
   
   dir_movies
