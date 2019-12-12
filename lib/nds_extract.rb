@@ -92,7 +92,7 @@ def gross_per_studio(collection)
   while idx < collection.size
     
     studio_gross[collection[idx][:studio]] == nil ?  studio_gross[collection[idx][:studio]] = collection[idx][:worldwide_gross] : studio_gross[collection[idx][:studio]] += collection[idx][:worldwide_gross] 
-    # if false then assign this k, v hash else true add to the gross under the key whose name mach
+    # if false then assign this k, v hash else true add to the total gross under the key whose name mach
     
     idx += 1
     
