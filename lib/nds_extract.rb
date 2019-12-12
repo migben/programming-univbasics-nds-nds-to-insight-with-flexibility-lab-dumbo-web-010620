@@ -108,7 +108,9 @@ def movies_with_directors_set(src)
   # to have a :director_name key added to it.
 end
 
-# ----------------    End of Your Code Region --------------------
+#######################################################
+#                   End of My Code                    #
+#######################################################
 # Don't edit the following code! Make the methods above work with this method
 # call code. You'll have to "see-saw" to get this to work!
 
