@@ -115,7 +115,7 @@ def movies_with_directors_set(src)
     idx += 1
   end
   
-  dir
+  dir_movies
   
 end
 
