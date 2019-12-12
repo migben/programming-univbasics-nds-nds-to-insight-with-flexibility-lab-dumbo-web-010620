@@ -39,6 +39,7 @@ def movies_with_director_key(name, movies_collection)
   
   
   # returns an AoH
+  # [dir_name:{}]
   
   
   # GOAL: For each Hash in an Array (movies_collection), provide
