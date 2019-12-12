@@ -112,7 +112,7 @@ def movies_with_directors_set(src)
   
   while idx < src.size
     
-    dir_movies.push(movies_with_director_key(src[idx][:name]))
+    dir_movies.push(movies_with_director_key(src[idx][:name], src[idx][:movies]))
     
     idx += 1
   end
